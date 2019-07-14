@@ -4,3 +4,5 @@ You need to edit 33 and 34 lines.
 I do not advise to use your main account.
 Compile in .exe is better using PyInstaller, other methods have not been tested.
 
+To do.
+Add keylogger
